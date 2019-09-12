@@ -1,0 +1,146 @@
+.obuchenie{
+position: absolute;
+left: 535px;
+width: 510px;
+bottom: 20px;
+height: 510px;
+} 
+
+.kntr_zn1{
+position: absolute;
+left: 46px;
+width: 250px;
+height: 250px;
+}
+
+.kntr_zn1:hover{
+position: absolute;
+top: -40px;
+left: 6px;
+width: 330px;
+height: 330px;
+}
+
+
+.kntr_zn2{
+position: absolute;
+left: 382px;
+width: 250px;
+height: 250px;
+}
+
+
+.kntr_zn2:hover{
+position: absolute;
+top: -40px;
+left: 342px;
+width: 330px;
+height: 330px;
+}
+
+
+.kntr_zn3{
+position:absolute;
+left: 718px;
+width: 250px;
+height: 250px;
+}
+
+.kntr_zn3:hover{
+position: absolute;
+top: -40px;
+left: 678px;
+width: 330px;
+height: 330px;
+}
+
+.kntr_zn4{
+position: absolute;
+left: 1054px;
+width: 250px;
+height: 250px;
+}
+
+.kntr_zn4:hover{
+position: absolute;
+top: -40px;
+left: 1014px;
+width: 330px;
+height: 330px;
+}
+
+.kntr_zn5{
+position: absolute;
+top: 300px;
+left: 46px;
+width: 250px;
+height: 250px;
+}
+
+.kntr_zn5:hover{
+position: absolute;
+top: 240px;
+left: 6px;
+width: 330px;
+height: 330px;
+}
+
+.kntr_zn6{
+position: absolute;
+top: 300px;
+left: 550px;
+width: 250px;
+height: 250px;
+}
+
+.kntr_zn6:hover{
+position: absolute;
+top: 240px;
+left: 510px;
+width: 330px;
+height: 330px;
+}
+
+.kntr_zn7{
+position: absolute;
+top: 300px;
+left: 1054px;
+width: 250px;
+height: 250px;
+}
+
+.kntr_zn7:hover{
+position: absolute;
+top: 240px;
+left: 1014px;
+width: 330px;
+height: 330px;
+}
+
+.kntr_znt1{
+position: absolute;
+left: 46px;
+width: 250px;
+height: 250px;
+}
+
+.kntr_znt2{
+position: absolute;
+left: 382px;
+width: 250px;
+height: 250px;
+}
+
+.kntr_znt3{
+position:absolute;
+left: 718px;
+width: 250px;
+height: 250px;
+}
+
+.kntr_znt4{
+position: absolute;
+left: 1054px;
+width: 250px;
+height: 250px;
+}

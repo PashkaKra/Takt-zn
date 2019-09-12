@@ -1,0 +1,31 @@
+.vopr-1{
+position: relative;
+display: block;
+top: 0%;
+width: 100%;
+height: 100%;
+}
+.vop1{
+display: block;
+}
+
+.kn{
+background-color: rgba(0, 0, 255, 0.5);
+color: white;
+font-size: 30px;
+}
+
+.kn:hover{
+background-color: rgba(0, 0, 255, 1);
+color: rgba(230, 230, 250, 1);
+font-size: 30px;
+}
+
+.menu{
+position: absolute;
+display: block;
+}
+
+a{
+text-decoration: none;
+}

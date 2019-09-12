@@ -1,0 +1,58 @@
+.Ind{
+position: absolute;
+text-decoration: none;
+left: 40%;
+top: 40%;
+font-size: 100px;
+color:#003300;
+}
+.Ind:hover{
+position: absolute;
+text-decoration: none;
+left: 40%;
+top: 40%;
+/*font-size: 150px;*/
+color: #cc9900;
+}
+
+.menup{
+position: absolute;
+top: 130px;
+width: 1000px;
+height: 300px;
+left: 175px;
+background-color: #0099ff;
+}
+.knopka-{
+position: relative;
+text-decoration: none;
+font-size: 80px;
+color: #003300;
+}
+.knopka-:hover{
+position: relative;
+text-decoration: none;
+/*font-size: 90px;
+left: 20%;*/
+color: #cc9900;
+}
+.knopka{
+position: relative;
+top: 10px;
+left: 20px;
+text-decoration: none;
+color: #003300;
+}
+.knopka:hover{
+position: relative;
+top: 10px;
+left: 20px;
+text-decoration: none;
+color: #cc9900;
+}
+
+table{
+text-align: center;
+width: 100%;
+border-style: solid;
+}

@@ -1,0 +1,52 @@
+.top{
+position: absolute; /*--позиционирование от верхнего края окна браузера--*/
+width:1350px; /*--ширина шапки--*/
+height:90px; /*--высота шапки--*/
+top:0; /*--отступ от верхнего края окна браузера--*/
+background-color: #0000cc;  /*--цвет шапки--*/
+background-image: url(../Pictures/gerb.png);/*--вставка рисунка--*/
+background-repeat: no-repeat;/*--запрет на повторение рисунка--*/
+background-size: contain;/*--используется, чтобы рисунок целиком поместился в активную область секции--*/
+}
+
+h1{
+position: relative;
+text-align: center; /*--выравнивание заголовка по середине--*/
+color: white; /*--цвет заголовка--*/
+top: -9px;/*--отступ от верхнего края--*/
+font-size:200%;/*--размер шрифта заголовка--*/
+}
+
+.big{
+position: relative;
+text-align: center; /*--выравнивание заголовка по середине--*/
+color: white; /*--цвет заголовка--*/
+top: 3px;/*--отступ от верхнего края--*/
+font-size:130%;/*--размер шрифта заголовка--*/
+}
+
+.main{
+position:relative;
+background-color: #33ffff;
+top: 80px;
+height: 575px;
+width: 1350px;
+}
+.main1{
+position:relative;
+background-color: #33ffff;
+top: 80px;
+height: 570px;
+width: 1350px;
+}
+.main2{
+position:relative;
+background-color: #33ffff;
+top: 80px;
+height: 1560px;
+width: 1350px;
+}
+
+.tema{
+display: none;
+}
